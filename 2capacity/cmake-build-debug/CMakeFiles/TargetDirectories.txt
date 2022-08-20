@@ -1,0 +1,3 @@
+C:/Users/Admin/Documents/Proga 6sem/2capacity/cmake-build-debug/CMakeFiles/2capacity.dir
+C:/Users/Admin/Documents/Proga 6sem/2capacity/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Documents/Proga 6sem/2capacity/cmake-build-debug/CMakeFiles/rebuild_cache.dir
